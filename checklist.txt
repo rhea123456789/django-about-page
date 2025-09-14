@@ -1,0 +1,7 @@
+Environment Checklist
+---------------------
+[✔] Python version:  3.13.7
+[✔] Virtual environment active: yes (venv)
+[✔] Django version: 5.2.6
+[✔] Runserver working: yes (http://127.0.0.1:8000/)
+[✔] Git remote set: origin -> https://github.com/rhea123456789/mysite.git
